@@ -1,2 +1,1 @@
-# canvas-bird
-bird
+# canvasGame
